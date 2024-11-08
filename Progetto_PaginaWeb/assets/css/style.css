@@ -36,6 +36,11 @@ header ul li {
   padding: 0 0.5em;
 }
 
+header a:visited,
+header a:link {
+  text-decoration: none;
+}
+
 main {
   padding: 30px;
   background-color: #eaeded;
@@ -94,6 +99,12 @@ main {
   font-size: 14px;
 }
 
+.shoplink a:visited,
+.shopLink a:link {
+  text-decoration: none;
+  color: #0c5c6a;
+}
+
 .cardText {
   margin-bottom: 30px;
 }
@@ -142,6 +153,12 @@ main {
   font-size: 14px;
 }
 
+.gameLink a:visited,
+.gameLink a:link {
+  text-decoration: none;
+  color: #0c5c6a;
+}
+
 .box3 {
   margin-top: 30px;
 }
@@ -163,6 +180,12 @@ main {
   color: #0c5c6a;
   font-weight: bold;
   font-size: 14px;
+}
+
+.soundLink a:visited,
+.soundLink a:link {
+  text-decoration: none;
+  color: #0c5c6a;
 }
 
 footer {
