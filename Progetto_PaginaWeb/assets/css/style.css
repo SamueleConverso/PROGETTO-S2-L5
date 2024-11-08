@@ -92,7 +92,7 @@ main {
 .shopLink {
   color: #0c5c6a;
   font-weight: bold;
-  font-size: 14px;
+  font-size: 0.8em;
 }
 
 .shoplink a:visited,
@@ -146,7 +146,7 @@ main {
 .gameLink {
   color: #0c5c6a;
   font-weight: bold;
-  font-size: 14px;
+  font-size: 0.8em;
 }
 
 .gameLink a:visited,
@@ -175,7 +175,7 @@ main {
 .soundLink {
   color: #0c5c6a;
   font-weight: bold;
-  font-size: 14px;
+  font-size: 0.8em;
 }
 
 .soundLink a:visited,
