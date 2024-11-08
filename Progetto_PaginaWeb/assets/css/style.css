@@ -102,9 +102,9 @@ main {
 .imgCard2,
 .imgCard3,
 .imgCard4 {
-  display: inline-block;
-  width: 250px;
+  width: 20%;
   margin: 0 10px;
+  display: inline-block;
 }
 
 .imgCard1 img,
